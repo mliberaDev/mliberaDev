@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz Libera</h1>
-<h3 align="center">A Software Engineer specializing in Java and Spring, with over 2 years of experience in backend application development and nearly 2 years of experience working with Azure Cloud technologies.</h3>
+<h3 align="center">Software Engineer specializing in Java (Spring) backend development and cloud/DevOps solutions on Azure. I build scalable services, automate CI/CD processes, and work with containerization and Infrastructure as Code (IaC).</h3>
 
 - 👨‍💻 All of my projects are available here [Repositories](https://github.com/mliberaDev?tab=repositories)
 
